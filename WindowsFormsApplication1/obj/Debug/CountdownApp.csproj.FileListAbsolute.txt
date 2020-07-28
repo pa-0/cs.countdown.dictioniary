@@ -1,0 +1,10 @@
+C:\Development\Countdown\WindowsFormsApplication1\bin\Debug\CountdownApp.exe.config
+C:\Development\Countdown\WindowsFormsApplication1\obj\Debug\CountdownApp.csprojResolveAssemblyReference.cache
+C:\Development\Countdown\WindowsFormsApplication1\obj\Debug\CountdownApp.CountdownForm.resources
+C:\Development\Countdown\WindowsFormsApplication1\obj\Debug\CountdownApp.Properties.Resources.resources
+C:\Development\Countdown\WindowsFormsApplication1\obj\Debug\CountdownApp.csproj.GenerateResource.Cache
+C:\Development\Countdown\WindowsFormsApplication1\bin\Debug\ExternalFiles\engmix.txt
+C:\Development\Countdown\WindowsFormsApplication1\bin\Debug\CountdownApp.exe
+C:\Development\Countdown\WindowsFormsApplication1\bin\Debug\CountdownApp.pdb
+C:\Development\Countdown\WindowsFormsApplication1\obj\Debug\CountdownApp.exe
+C:\Development\Countdown\WindowsFormsApplication1\obj\Debug\CountdownApp.pdb
